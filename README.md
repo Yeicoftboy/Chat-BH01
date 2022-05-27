@@ -1,1 +1,1 @@
-##Chat for any server.
+#Chat for any server.
